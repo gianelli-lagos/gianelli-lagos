@@ -16,7 +16,7 @@ Currently I am a rising senior at **[Stevens Institute of Technology](https://ww
     <a href="https://github.com/gianelli-lagos"><img height=75 align="center" src="assets/japanese-flag-round.png" /></a> <a href="https://github.com/gianelli-lagos"><img height=75 align="center" src="assets/chinese-flag-round.png" /></a>
 
 ## Lets Connect!
-Always eager to connect with like-minded individuals and contribute to advancements in the tech industry!
+Always eager to connect with like-minded individuals and contribute to advancements in the tech industry!  
 📫 Feel free to reach out if you want to collaborate or just chat about tech!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gianellil) 
